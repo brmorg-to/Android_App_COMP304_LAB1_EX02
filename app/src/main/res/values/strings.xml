@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">brunomorgado_COMP304Section002_Lab01_Ex02</string>
+    <string name="pizza_delivery_app">PIZZA DELIVERY APP</string>
+    <string name="customerName">customer name</string>
+    <string name="appName">PIZZA DELIVERY APP</string>
+    <string name="customerEmail">customer e-mail</string>
+    <string name="telephone">telephone</string>
+    <string name="pizzaSizes">PIZZA SIZES</string>
+    <string name="toppin1">ONION</string>
+    <string name="toppin2">PEPPER</string>
+    <string name="topping3">TOMATO</string>
+    <string name="topping4">OLIVE</string>
+    <string name="delivery">DELIVERY:</string>
+    <string name="radioButtonHome">HOME</string>
+    <string name="radioButtonTakeout">TAKE OUT</string>
+    <string name="placeOrder">PLACE ORDER</string>
+    <string name="summary">order details displayed here - Customer name, telephone and cost of pizza</string>
+    <string-array name="selector">
+        <item>Small-> $10.00</item>
+        <item>Medium-> $12.00</item>
+        <item>Large-> $14.00</item>
+    </string-array>
+</resources>
